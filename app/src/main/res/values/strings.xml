@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">app_descartemed</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_descarte">Descarte</string>
+    <string name="title_pontos_de_coleta">Pontos de Coleta</string>
+    <string name="title_sobre">Sobre o Projeto</string>
+</resources>
